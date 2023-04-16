@@ -1,0 +1,104 @@
+7-zip
+alacritty
+alsa-utils
+arch-install-scripts
+archinstall
+audacity
+balena-etcher-electron-bin
+base
+base-devel
+bat
+blueman
+bluez
+bluez-utils
+catppuccin-gtk-theme-macchiato
+cava
+cifs-utils
+discord
+dunst
+efibootmgr
+exa
+feh
+ffmpegthumbnailer
+fish
+fuse2
+fzf
+geary
+gimp
+git
+github-cli
+goverlay
+gparted
+gvfs
+helix
+htop
+iwd
+kitty
+lf
+libreoffice-fresh
+linux
+linux-firmware
+lm_sensors
+lxappearance
+lxsession
+man-db
+mangohud
+mlocate
+networkmanager
+pamixer
+pavucontrol
+pcmanfm-gtk3
+pfetch
+picom-jonaburg-git
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+polkit
+polybar
+python-pip
+qbittorrent
+qdirstat-bin
+rclone
+sddm-catppuccin-git
+sddm-git
+shell-color-scripts
+shutter
+spotify
+spotify-tui
+spotifyd
+steam
+tldr
+translate-shell
+ttf-jetbrains-mono
+ttf-jetbrains-mono-nerd
+ueberzug
+ufw
+viewnior
+virt-manager
+vlc
+vsftpd
+w3m
+w3m-imgcat
+wireplumber
+xdg-desktop-portal
+xdg-user-dirs
+
+# for xorg
+xclip
+xinput-gui
+xorg-xininfo
+xsel
+xtitle
+bspwm
+sxhkd
+rofi
+
+## for wayland
+# rofi-lbonn-wayland-git
+# hyprland-git
+# swaybg
+# swaylock-effects
+# waybar-hyprland-git
+# wl-clipboard
+# wlr-randr
